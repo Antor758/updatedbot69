@@ -2,11 +2,8 @@ import amino
 
 
 client = amino.Client()
-email = input('Email >>> ')
-password = input('Password >>> ')
-client.login(email=email, password=password)
-print(f'{email} - paste it in EMAIL in db.py')
-print(f'{password} - paste it in PASSWORD in db.py')
+client.login_sid(SID=sid)
+
 reportlink = input('Chat link where bot will send reports >>> ')
 print(f"'{client.get_from_code(code=reportlink).comId}' - paste it in MAIN_COMID in db.py\n")
 print(f"'{client.get_from_code(code=reportlink).objectId}' - paste it in REPORT_CHAT in db.py\n")
