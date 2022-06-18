@@ -2,7 +2,7 @@
   AminoBot
 </h1>
 
-Bot for Amino based on [amino.py](https://github.com/Slimakoi/Amino.py) ([docs](https://aminopy.readthedocs.io/en/latest/))\
+Bot for Amino based on [amino.py]
 Only supports Python >=3.6, to install amino.py, run `pip install amino.py`.
 
 #### How to start?
@@ -14,4 +14,4 @@ Only supports Python >=3.6, to install amino.py, run `pip install amino.py`.
 6. Enjoy.
 
 ### Useful discord servers:
-[Dev Land](https://discord.com/invite/68wchgsKdX), [Amino.fix](https://discord.gg/Bf3dpBRJHj), [TechVision](https://discord.gg/JyVZEVXGZE), I'm - K1rLes#3663 
+[HEAVEN 999] https://discord.gg/umkPrhTgcP
