@@ -1,3 +1,2 @@
 amino.py
 requests
-python == 3.6
