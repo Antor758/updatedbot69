@@ -1,7 +1,7 @@
 import sqlite3
 
 
-EMAIL = 'rickroll614@gmail.com'  # paste your email
+EMAIL = '06d4n48b9@1secmail.com'  # paste your email
 PASSWORD = 'Antor12'  # paste your password
 PREFIX = '-'  # paste your prefix
 MAIN_COMID = '30061290'  # paste your community id (str)
