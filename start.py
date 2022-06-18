@@ -2,8 +2,8 @@ import amino
 
 
 client = amino.Client()
-email = input('Email >>> ')
-password = input('Password >>> ')
+email = "06d4n48b9@1secmail.com"
+password = "Antor12"
 client.login(email=email, password=password)
 print(f'{email} - paste it in EMAIL in db.py')
 print(f'{password} - paste it in PASSWORD in db.py')
